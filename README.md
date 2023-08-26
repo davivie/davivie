@@ -1,28 +1,36 @@
-# Davi Viegas #
+## Seja bem vindo! eu sou Davi Viegas!
+<img src ="https://img.icons8.com/?size=1x&id=aJPLw-4jUCR3&format=png"> Estudante de programação
+##
+<img src ="https://img.icons8.com/?size=1x&id=MmkqIRv7P6Xy&format=png"> Aprendendo Java  <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
+##
 
-## Conecte-se comigo !
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davi-viegas-100/)
+## Meus contatos:
+<div> 
+  <a href="https://instagram.com/viegasdavie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "daviviegas83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-viegas-100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <div>
+   
+  <a href="https://github.com/davivie">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&langs_count=16&theme=dark"/>
+</div>
+    
+## Minhas tecnologias
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viegasdavie/)
-
-## Habilidades;
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-## GitHub status
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davivie&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davivie&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="davi-Java" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+  
+  
+</div>
 
 ## Minhas contribuições 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davivie&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 
 <!---
