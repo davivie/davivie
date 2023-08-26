@@ -1,8 +1,11 @@
-## Seja bem vindo! eu sou Davi Viegas!
-<img src ="https://img.icons8.com/?size=1x&id=aJPLw-4jUCR3&format=png"> Estudante de programação
+## Seja bem vindo! eu sou Davi Viegas! <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png">
+
+<img src ="https://img.icons8.com/?size=1x&id=aJPLw-4jUCR3&format=png"> 
+
 ##
-<img src ="https://img.icons8.com/?size=1x&id=MmkqIRv7P6Xy&format=png"> Aprendendo Java  <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
+<img src ="https://img.icons8.com/?size=1x&id=MmkqIRv7P6Xy&format=png"> Aprendendo o desenvolvimento em  Java  <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
 ##
+
 ## Minhas tecnologias
 
 <div style="display: inline_block"><br>
