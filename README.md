@@ -27,7 +27,7 @@
 </div>
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Minhas Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davivie&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github/davivie.com//?user=davivie&theme=dark&background=000&border=30A3DC&dates=FFF)](https://github.com/davivie)
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
