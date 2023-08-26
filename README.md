@@ -8,7 +8,7 @@
 ##
 <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
 
-## Minhas Tecnologias
+## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=nK5KokYOqcnT&format=png"> Minhas Tecnologias
 <div style="display: flex; align-items: center;">
   <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
   <img alt="Java" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
 </div>
 
-## Meus Contatos
+## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=CYKLk4DosdHW&format=png"> Meus Contatos
 <div>
   <a href="https://instagram.com/viegasdavie" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-## Minhas Contribuições
+## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davivie&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <div>
