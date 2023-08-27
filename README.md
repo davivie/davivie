@@ -28,7 +28,12 @@
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Minhas Contribuições
 <div>
- 
- ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&theme=dark&count_private=true)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davivie&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=dark&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
+ </div>
 
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=footer"/>
