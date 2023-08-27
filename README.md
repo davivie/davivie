@@ -27,9 +27,8 @@
 </div>
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Minhas Contribuições
-[![GitHub Streak](https://github/davivie.com//?user=davivie&theme=dark&background=000&border=30A3DC&dates=FFF)](https://github.com/davivie)
-
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&langs_count=6&theme=dark"/>
+<a href="https://github.com/davivie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&langs_count=16&theme=dracula"/>
 </div>
