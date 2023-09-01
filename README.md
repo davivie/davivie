@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Davi+Viegas;tenho+22+anos;Seja+Bem+Vindo+ao+meu+perfil:%29)](https://git.io/typing-svg)
 
 
- <p align="center"><em style="color: purple;">Explorando o cosmos digital, onde estrelas binárias dançam ao ritmo dos algoritmos <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png">.</em></p>
+ <p align="center"><em style="color: purple;">"A imaginação é uma das maiores dádivas do homem."- O Guia do Mochileiro das Galáxias <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png">.</em></p>
 
 
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=1x&id=MmkqIRv7P6Xy&format=png">  Aprendendo e Desenvolvendo 
 
- Atualmente, estou mergulhando no mundo do desenvolvimento em Java, buscando expandir meus horizontes e criar soluções inovadoras. 
+ Atualmente, estou estudando desenvolvimento em Java. 
 ##
 <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
 
