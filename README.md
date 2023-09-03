@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Davi+Viegas;tenho+22+anos;Seja+Bem+Vindo+ao+meu+perfil:%29)](https://git.io/typing-svg)
 
 
- <p align="center"><em style="color: purple;">"A imaginação é uma das maiores dádivas do homem."- O Guia do Mochileiro das Galáxias <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png">.</em></p>
+ <p align="center"><em style="color: purple;">"A imaginação é uma das maiores dádivas do ser humano."- O Guia do Mochileiro das Galáxias <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png">.</em></p>
 
 
 
