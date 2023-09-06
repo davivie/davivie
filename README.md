@@ -7,9 +7,18 @@
 
 
 
-## <img height="20" width="20" src ="https://img.icons8.com/?size=1x&id=MmkqIRv7P6Xy&format=png">  Aprendendo e Desenvolvendo 
+##  💼 Sobre mim
 
- Atualmente, estou estudando a linguagem Java e suas aplicações. 
+🚀 Santander BootCamp FullStack.
+
+🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul
+
+☕📚 Aprendendo Java.
+
+ 
+ 
+
+ 
 ##
 <img align="right" alt="davi-gatu" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif">
 
@@ -35,7 +44,11 @@
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Minhas Contribuições
 <div>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davivie&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=dark&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
+| <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> 
+| <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&theme=dark&hide_border=true" /></a> |
+
+
 
  </div>
 
