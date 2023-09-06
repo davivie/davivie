@@ -11,7 +11,7 @@
 
 🚀 Santander BootCamp FullStack.
 
-🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul
+🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul.
 
 ☕📚 Aprendendo Java.
 
