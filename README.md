@@ -25,10 +25,18 @@
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=nK5KokYOqcnT&format=png"> Minhas Tecnologias
 <div style="display: flex; align-items: center;">
-  <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img alt="TypeScript" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
   <img alt="Java" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+ 
+  <img alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
+  <img alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  <img alt="Angular" height="30" width="30" src="https://static-00.iconduck.com/assets.00/angular-icon-icon-1931x2048-p3tn507e.png">
+ 
+
+ 
 </div>
 
 ## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=CYKLk4DosdHW&format=png"> Meus Contatos
