@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
 
-<p align="center"><em style="color: a27ae7ea;">I have a dream <img align="center" alt="davi-Js" height="40" width="40" src="https://img.icons8.com/?size=512&id=88826&format=png"></em></p>
+<p align="center"><em style="color: a27ae7ea;">I have a dream... ☁️</p>
 
 
 
 
 
-
-<img align="right" alt="hollow" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"> 
+<img align="right" alt="hollow" src="https://egs3h68r5ni.exactdn.com/wp-content/uploads/2020/09/Spiritfarer-fishing-gif-500px.gif?strip=all&lossy=1&resize=500%2C281&ssl=1"> 
 
 
 
@@ -21,9 +20,9 @@
 
 ## ✌️Me
 
-🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo.
+🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo- Cursando.
 
-🚀 Santander BootCamp FullStack.
+🚀 Santander BootCamp FullStack 2023.
 
 
  
