@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="hollow" src="https://egs3h68r5ni.exactdn.com/wp-content/uploads/2020/09/Spiritfarer-fishing-gif-500px.gif?strip=all&lossy=1&resize=500%2C281&ssl=1"> 
+<img align="right" alt="hollow" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif"> 
 
 
 
