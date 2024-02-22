@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="hollow" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif"> 
+<img align="right" alt="hollow" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"> 
 
 
 
