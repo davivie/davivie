@@ -1,7 +1,7 @@
 <!--Desenho onda -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a27ae7ea&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a7d5ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
 
@@ -15,6 +15,27 @@
 
 
 <h3> (^u^) Sobre mim</h3>
+
+```java
+
+import via-lactea-planetaTerra-brasil-saoPaulo-davi.viegas-;
+
+public class ViegasDavi {
+    private String nome = "Davi Viegas";
+    private String pronomes = {"he/him - ele"};
+    private String[] tecnologias = {"Java", "Python", "JavaScript", "SQL","Angular"};
+    private String hobbies = " Um Poeta do universo  ";
+
+    public static void main(String[] args) {
+       daviViegas = new ViegasDavi();
+        System.out.println(" ✌️Ola, eu sou o " + daviViegas.nome);
+	       System.out.println(" ♂️ Proonomes" + daviViegas.pronomes);
+        System.out.println(" 💻 Estudo  as linguagens " + daviViegas.tecnologias);
+        System.out.println("💬🖖 Sobre mim.."+ daviViegas.hobbies);
+        
+    }
+}
+```
  
  <br>
 
