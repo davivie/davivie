@@ -1,17 +1,22 @@
+<!--Desenho onda -->
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a27ae7ea&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
 
 
+<!--Mensagem -->
 
 <p align="center">
 
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
  
- </p>
 
-<h1>Sobre mim</h1>
 
+<h3> (^u^) Sobre mim</h3>
+ 
+ <br>
 
 <div></div>
 
@@ -22,6 +27,8 @@
 
 🚀 Santander BootCamp FullStack 2023.
 
+<div></div>
+<br>
 
 
 
@@ -42,6 +49,7 @@
   <img alt="Angular" height="30" width="30" src="https://static-00.iconduck.com/assets.00/angular-icon-icon-1931x2048-p3tn507e.png">
  
 <div></div>
+<br>
 
 
 
@@ -51,21 +59,38 @@
 ![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=trello&logoColor=007ACC)
 
  
-</div>
+<div></div>
+<br>
+
+<!--Grafico -->
+ 
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=davivie&theme=merko"/>
+ <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Github Stats" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+ 
+  <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=davivie'> 
+</a>
+
+
+<div></div>
+<br>
 
 <h2> 💡 Contribuições </h2>
 
 <div>
 
+<!--Graficos menores -->
 
 | <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> 
 | <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&theme=dark&hide_border=true" /></a> |
 
 
+ 
 
  </div>
 
 </div>
 
+<!--desenho onda -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a27ae7&height=120&section=footer"/>
