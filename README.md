@@ -75,6 +75,13 @@ public class ViegasDavi {
   <img alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   <img alt="Angular" height="30" width="30" src="https://static-00.iconduck.com/assets.00/angular-icon-icon-1931x2048-p3tn507e.png">
+  
+  <img alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">
+
+  <img alt="SQL" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png">
+
+
+  
  
 <div></div>
 <br>
