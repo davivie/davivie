@@ -32,7 +32,7 @@
 
 
 
- <h2> < / > Tecnologias  </h2>
+ <h2> 💻 Tecnologias  </h2>
 
 
 <div style="display: flex; align-items: center;">
@@ -85,9 +85,12 @@
 </a>
 </div>
 
- 
 
  </div>
+
+
+  
+ <br>
 
 </div>
 
