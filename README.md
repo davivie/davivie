@@ -62,11 +62,7 @@
 <div></div>
 <br>
 
-<!--Grafico -->
- 
 
-
-<div></div>
 <br>
 
 <h2> 💡 Contribuições </h2>
