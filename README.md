@@ -1,10 +1,17 @@
 <!--Desenho onda -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a7d5ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#bbceed&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
+
+
+<p align="center">
+	
+<img src="https://i.pinimg.com/originals/f5/ea/24/f5ea24843b7d486e8bbdb046d5954819.gif" alt="Descrição da imagem" width="500" height="300">
+
+</p>
 
 <!--Mensagem -->
 
@@ -18,7 +25,7 @@
 
 ```java
 
-import via-lactea-planetaTerra-brasil-saoPaulo-davi.viegas-;
+import via-lactea-planetaTerra-brasil-saoPaulo-human-davi.viegas-;
 
 public class ViegasDavi {
     private String nome = "Davi Viegas";
@@ -76,7 +83,8 @@ public class ViegasDavi {
 
 <h2>🔎Ferramentas </h2>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) |
 ![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=trello&logoColor=007ACC)
 
  
