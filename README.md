@@ -4,11 +4,19 @@
 
 
 
+<p align="center">
 
-<img align="right" alt="hollow" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"> 
+ <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
+ 
+ </p>
+
+<h1>Sobre mim</h1>
 
 
-<h2>☁️ Courses:</h2>
+<div></div>
+
+
+<h2>☁️ Cursos </h2>
   
 🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo- Cursando 3º semestre.
 
@@ -17,7 +25,8 @@
 
 
 
- <h2>💻 Technologies </h2>
+ <h2> < / > Tecnologias  </h2>
+
 
 <div style="display: flex; align-items: center;">
   <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -32,11 +41,19 @@
  
   <img alt="Angular" height="30" width="30" src="https://static-00.iconduck.com/assets.00/angular-icon-icon-1931x2048-p3tn507e.png">
  
+<div></div>
+
+
+
+<h2>🔎Ferramentas </h2>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=trello&logoColor=007ACC)
 
  
 </div>
 
-<h2> 💡 Contributions </h2>
+<h2> 💡 Contribuições </h2>
 
 <div>
 
