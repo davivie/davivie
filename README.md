@@ -2,40 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Davi+Viegas;I+have+22+years;Welcome+to+my+perfil:%29)](https://git.io/typing-svg)
 
-<p align="center"><em style="color: a27ae7ea;">I have a dream... ☁️</p>
-
-
 
 
 
 <img align="right" alt="hollow" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"> 
 
 
-
-
-
-
- 
-
-
-## ✌️Me
-
-🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo- Cursando.
+<h2>☁️ Courses:</h2>
+  
+🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo- Cursando 3º semestre.
 
 🚀 Santander BootCamp FullStack 2023.
 
 
- 
-
- 
-##
 
 
+ <h2>💻 Technologies </h2>
 
-## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=nK5KokYOqcnT&format=png"> Technologies
 <div style="display: flex; align-items: center;">
   <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ 
   <img alt="TypeScript" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+  
   <img alt="Java" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
  
   <img alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,17 +36,8 @@
  
 </div>
 
-## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=CYKLk4DosdHW&format=png"> Contacts
-<div>
-  <a href="https://instagram.com/viegasdavie" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/davi-viegas-100/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<h2> 💡 Contributions </h2>
 
-## <img height="20" width="20" src ="https://img.icons8.com/?size=512&id=mpkjcEZEyYpL&format=png"> Contributions
 <div>
 
 
