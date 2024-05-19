@@ -64,12 +64,6 @@
 
 <!--Grafico -->
  
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=davivie&theme=merko"/>
- <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Github Stats" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
- 
-  <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=davivie'> 
-</a>
 
 
 <div></div>
@@ -79,11 +73,17 @@
 
 <div>
 
-<!--Graficos menores -->
+<!--Graficos -->
 
-| <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> 
-| <a href="https://github.com/davivie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&layout=compact&theme=dark&hide_border=true" /></a> |
-
+<div align="center">
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=davivie&theme=merko"/> 
+ 
+ <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Github Stats" src="https://github-readme-stats.vercel.app/api?username=davivie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+ 
+  <a href="https://github.com/davivie/github-readme-stats"><img alt="Davi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivie&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=davivie'> 
+</a>
+</div>
 
  
 
