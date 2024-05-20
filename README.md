@@ -30,14 +30,14 @@ import via-lactea-planetaTerra-brasil-saoPaulo-human-davi.viegas-;
 public class ViegasDavi {
     private String nome = "Davi Viegas";
     private String pronomes = {"he/him - ele"};
-    private String[] tecnologias = {"Java", "Python", "JavaScript", "SQL","Angular"};
-    private String hobbies = " Um Poeta do universo  ";
+    private String[] tecnologias = {"Java", "Python", "JavaScript","TypeScript", "SQL","Angular"};
+    private String hobbies = " Um Poeta do universo e pedreiro digital ";
 
     public static void main(String[] args) {
        daviViegas = new ViegasDavi();
         System.out.println(" ✌️Ola, eu sou o " + daviViegas.nome);
 	       System.out.println(" ♂️ Proonomes" + daviViegas.pronomes);
-        System.out.println(" 💻 Estudo  as linguagens " + daviViegas.tecnologias);
+        System.out.println(" 💻 Estudo " + daviViegas.tecnologias);
         System.out.println("💬🖖 Sobre mim.."+ daviViegas.hobbies);
         
     }
