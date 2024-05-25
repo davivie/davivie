@@ -11,9 +11,13 @@
 
  <!--
 <img src="https://i.pinimg.com/originals/f5/ea/24/f5ea24843b7d486e8bbdb046d5954819.gif" alt="space" width="500" height="300">
--->
+
 
 <img src="https://i.pinimg.com/originals/2f/2e/74/2f2e74b640b6495126a96d3a9308620c.gif" alt="space2" width="500" height="300">
+
+-->
+
+<img border style="border: 2px solid black;" src="https://i.pinimg.com/564x/b4/ee/c8/b4eec84a2803a66ec1984a7ce1fa763e.jpg" alt="space2" width="500" height="300">
 
 </p>
 
@@ -22,7 +26,7 @@
 <p align="center">
 
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
- 
+
 
 
 <h3> (^u^) Sobre mim</h3>
@@ -83,6 +87,8 @@ public class ViegasDavi {
   <img alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">
 
   <img alt="SQL" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png">
+
+  <img alt="SpringBoot" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
 
 
   
