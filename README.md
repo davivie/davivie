@@ -17,7 +17,7 @@
 
 -->
 
-<img border style="border: 2px solid black;" src="https://i.pinimg.com/564x/b4/ee/c8/b4eec84a2803a66ec1984a7ce1fa763e.jpg" alt="space2" width="500" height="300">
+<img border style="border: 2px solid black;" src="https://i.pinimg.com/originals/7c/43/8a/7c438ae4e5f732a83cf46bd4aca3c275.gif" alt="space2" width="500" height="400">
 
 </p>
 
@@ -25,8 +25,23 @@
 
 <p align="center">
 
- <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
 
+```python
+
+print("Tenha a Lua como alvo")
+def verificar_alvo(acertarLua):
+
+    if acertarLua == "Errou":
+        print("Se errar, pode ser que acerte uma estrela 🌟")
+    else:
+        print("Você acertou a Lua 🌕")
+
+```
+
+
+<!---
+<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
+-->
 
 
 <h3> (^u^) Sobre mim</h3>
