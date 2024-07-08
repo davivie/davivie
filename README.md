@@ -17,7 +17,7 @@
 
 -->
 
-<img border style="border: 2px solid black;" src="https://i.pinimg.com/originals/7c/43/8a/7c438ae4e5f732a83cf46bd4aca3c275.gif" alt="space2" width="400" height="300">
+<img border style="border: 2px solid black;" src="https://i.pinimg.com/originals/7c/43/8a/7c438ae4e5f732a83cf46bd4aca3c275.gif" alt="space2" width="300" height="200">
 
 </p>
 
