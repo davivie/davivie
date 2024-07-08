@@ -17,7 +17,7 @@
 
 -->
 
-<img border style="border: 2px solid black;" src="https://i.pinimg.com/originals/7c/43/8a/7c438ae4e5f732a83cf46bd4aca3c275.gif" alt="space2" width="500" height="400">
+<img border style="border: 2px solid black;" src="https://i.pinimg.com/originals/7c/43/8a/7c438ae4e5f732a83cf46bd4aca3c275.gif" alt="space2" width="400" height="300">
 
 </p>
 
@@ -117,7 +117,7 @@ public class ViegasDavi {
 
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) |
-![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=trello&logoColor=007ACC)
+![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=trello&logoColor=007ACC)
 
  
 <div></div>
