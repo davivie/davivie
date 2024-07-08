@@ -111,14 +111,6 @@ public class ViegasDavi {
 <div></div>
 <br>
 
-
-
-<h2>🔎Ferramentas </h2>
-
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) |
-![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=trello&logoColor=007ACC)
-
  
 <div></div>
 <br>
