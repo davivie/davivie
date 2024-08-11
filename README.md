@@ -44,27 +44,7 @@ def verificar_alvo(acertarLua):
 -->
 
 
-<h3> (^u^) Sobre mim</h3>
-
-```java
-
-import via-lactea-planetaTerra-brasil-saoPaulo-human-davi.viegas-;
-
-public class ViegasDavi {
-    private String nome = "Davi Viegas";
-    private String pronomes = {"he/him - ele"};
-    private String[] tecnologias = {"Java", "Python", "JavaScript","TypeScript", "SQL","Angular"};
-    private String hobbies = " Um Poeta do universo e pedreiro digital ";
-
-    public static void main(String[] args) {
-       daviViegas = new ViegasDavi();
-        System.out.println(" ✌️Ola, eu sou o " + daviViegas.nome);
-	       System.out.println(" ♂️ Proonomes" + daviViegas.pronomes);
-        System.out.println(" 💻 Estudo " + daviViegas.tecnologias);
-        System.out.println("💬🖖 Sobre mim.."+ daviViegas.hobbies);
-        
-    }
-}
+<
 ```
  
  <br>
@@ -77,10 +57,6 @@ public class ViegasDavi {
 🎓 Analises e Desenvolvimento de Sistemas - Fatec Zona Sul Dom Paulo Evaristo- Cursando 3º semestre.
 
 🚀 Santander BootCamp FullStack 2023.
-
-<div></div>
-<br>
-
 
 
  <h2> 💻 Tecnologias  </h2>
