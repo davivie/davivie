@@ -44,13 +44,6 @@ def verificar_alvo(acertarLua):
 -->
 
 
-<
-```
- 
- <br>
-
-<div></div>
-
 
 <h2>☁️ Cursos </h2>
   
